@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Cool-Projects/static/css/main.b6d9d4f3.css",
+    "main.js": "/React-Cool-Projects/static/js/main.6114aacd.js",
+    "static/js/787.298cf293.chunk.js": "/React-Cool-Projects/static/js/787.298cf293.chunk.js",
+    "index.html": "/React-Cool-Projects/index.html",
+    "main.b6d9d4f3.css.map": "/React-Cool-Projects/static/css/main.b6d9d4f3.css.map",
+    "main.6114aacd.js.map": "/React-Cool-Projects/static/js/main.6114aacd.js.map",
+    "787.298cf293.chunk.js.map": "/React-Cool-Projects/static/js/787.298cf293.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6d9d4f3.css",
+    "static/js/main.6114aacd.js"
+  ]
+}
